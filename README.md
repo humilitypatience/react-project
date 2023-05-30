@@ -15,6 +15,10 @@ Simple ecommerce react js app with firebase [typescript].
 $ yarn install
 ```
 
+```sh
+$ npm install
+```
+
 ### 2. Create a new firebase project
 Login to your google account and create a new firebase project [here](https://console.firebase.google.com/u/0/)
 
